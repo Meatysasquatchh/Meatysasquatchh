@@ -2,9 +2,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i3t5cl4qxabr5dt2zozgcn3wre&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=49306b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meatysasquatchh&theme=synthwave&hide_border=false)<br/>
 
@@ -13,5 +13,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=meatysasquatchh&icon=3&color=11)](https://visitcount.itsvg.in)
-
-
