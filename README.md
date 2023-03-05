@@ -6,7 +6,7 @@
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meatysasquatchh&theme=synthwave&hide_border=false)<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i3t5cl4qxabr5dt2zozgcn3wre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=2b213a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i3t5cl4qxabr5dt2zozgcn3wre&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=49306b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Joined 2017](https://user-images.githubusercontent.com/25158874/222989778-a2a40078-7426-4720-900b-ade429cc070e.png)
 
