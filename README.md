@@ -2,6 +2,9 @@
 
 [![spotify status](https://spotify-github-profile.vercel.app/api/view?uid=31i3t5cl4qxabr5dt2zozgcn3wre&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=49306b&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![reo yes yes](https://user-images.githubusercontent.com/25158874/222991165-aa3984d1-2159-42ff-9064-0cee569da495.png)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=meatysasquatchh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
