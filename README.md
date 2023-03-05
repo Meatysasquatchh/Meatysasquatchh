@@ -6,11 +6,12 @@
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meatysasquatchh&theme=synthwave&hide_border=false)<br/>
 
-![image](https://user-images.githubusercontent.com/25158874/222989778-a2a40078-7426-4720-900b-ade429cc070e.png)
-
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i3t5cl4qxabr5dt2zozgcn3wre&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![Joined 2017](https://user-images.githubusercontent.com/25158874/222989778-a2a40078-7426-4720-900b-ade429cc070e.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=meatysasquatchh&icon=3&color=11)](https://visitcount.itsvg.in)
+
+
